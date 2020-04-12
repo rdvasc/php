@@ -1,4 +1,5 @@
 <?php
-	echo "Olá Mundo 456!";
+<<<<<<< HEAD
+	echo "Olá Mundo !";
 	echo "teste";
 ?>
